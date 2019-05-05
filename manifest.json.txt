@@ -1,0 +1,29 @@
+{
+  "name": "Trendingusaha",
+  "short_name": "KompiTextAja",
+  "start_url": "https://trendingusaha.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-ru19dpVxhkM/XM6asQGq1SI/AAAAAAAAOs4/Fp6zNG-Ap04rItJcPnSsGFN8dt4HNEKTACLcBGAs/s1600/android-icon-36x36.png",
+    "sizes": "36x36",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-3l0Klgg5v4U/XM6cJnpfjTI/AAAAAAAAOtQ/IvyFx3laqNMRf0znuw4zKgcHKv-JAs0fwCLcBGAs/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-_sXj0YaU8lU/XM6b3PE7yMI/AAAAAAAAOtI/-BkIt-0B08Ea505R7H40pdbDmv0WR5UvwCLcBGAs/s1600/apple-icon-180x180.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-x7w9Yk6hT2g/XM6bgNZaICI/AAAAAAAAOtA/V_rfPIeBxtgfAZubJhqSrNbVvnJzpmtdwCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+  }]
+}
+
+
